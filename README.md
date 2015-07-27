@@ -47,7 +47,7 @@ Features
 * Easily accessible through CLI, [python](guide-python/basic_walkthrough.py), 
   [R](../R-package/demo/basic_walkthrough.R), 
   [Julia](https://github.com/antinucleon/XGBoost.jl/blob/master/demo/basic_walkthrough.jl)
-* Its fast! Benchmark numbers comparing xgboost, H20, Spark, R - [benchm-ml numbers](https://github.com/szilard/benchm-ml)
+* Its fast! [benchm-ml benchmark numbers](https://github.com/szilard/benchm-ml) comparing xgboost, H20, Spark, R
 * Memory efficient - Handles sparse matrices, supports external memory
 * Accurate prediction, and used extensively by data scientists and kagglers - [highlight links](https://github.com/dmlc/xgboost/blob/master/doc/README.md#highlight-links)
 * Distributed version runs on Hadoop (YARN), MPI, SGE etc., scales to billions of examples.
